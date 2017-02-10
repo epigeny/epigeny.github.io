@@ -24,10 +24,10 @@ stackoverflow_url: http://stackexchange.com/users/6271547/yannick-marcon
 linkedin_url: https://www.linkedin.com/in/yannickmarcon
 
 # Address information
-address_street: 12 rue Anselme
-address_city: St Ouen
+address_street: 
+address_city: Chamonix
 address_state: France
-address_zip: 93400
+address_zip: 
 
 # Build settings
 markdown: kramdown
