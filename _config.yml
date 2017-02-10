@@ -10,7 +10,7 @@ title: Epigeny
 email: info@epigeny.io
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/epigeny" # the subpath of your site, e.g. /blog
 url: "http://epigeny.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
