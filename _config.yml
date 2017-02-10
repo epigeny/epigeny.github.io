@@ -31,3 +31,5 @@ address_zip: 93400
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
