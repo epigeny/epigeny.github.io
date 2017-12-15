@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'epigeny';
+  src:  url('../fonts/epigeny.eot?qv8fdl');
+  src:  url('../fonts/epigeny.eot?qv8fdl#iefix') format('embedded-opentype'),
+    url('../fonts/epigeny.ttf?qv8fdl') format('truetype'),
+    url('../fonts/epigeny.woff?qv8fdl') format('woff'),
+    url('../fonts/epigeny.svg?qv8fdl#epigeny') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="e-"], [class*=" e-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'epigeny' !important;
+  speak: none;
+  font-size: larger;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.e-epigeny:before {
+  content: "\45";
+}
