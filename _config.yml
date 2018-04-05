@@ -4,7 +4,7 @@ email: info@epigeny.io
 url: http://epigeny.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "data scientist, classification, data web portal, epidemiology, obiba"
-skills: "Data Scientist - Backend and Fronted Developer"
+skills: "Full-stack Development - Data Science"
 meta_author: Yannick Marcon
 
 # Google webmaster tools
@@ -48,10 +48,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Chamonix, France
+  - line: France
 
 # Credits content
-credits: 'Yannick Marcon, developer and architect at OBiBa.'
+credits: 'Yannick Marcon, Software engineer.'
 
 # Build settings
 markdown: kramdown
