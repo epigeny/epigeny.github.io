@@ -51,7 +51,7 @@ address:
   - line: France
 
 # Credits content
-credits: 'Yannick Marcon, Software engineer.'
+credits: 'Yannick Marcon'
 
 # Build settings
 markdown: kramdown

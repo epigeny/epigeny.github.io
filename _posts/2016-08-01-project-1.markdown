@@ -7,7 +7,7 @@ alt: image-alt
 project-date: since August 2016
 client: Maelstrom Research
 website: https://maelstrom-research.org
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Architecture, Database, Web Development, Training, Support
+description: General collaboration for <a href="http://www.obiba.org" target="_blank">OBiBa</a> software development (technical specifications, development and release management). Support to associated studies such as <a href="http://www.clsa-elcv.ca/" target="_blank">CLSA</a>, <a href="http://partnershipfortomorrow.ca/" target="_blank">CPTP</a>, <a href="http://athlosproject.eu/" target="_blank">Athlos</a> etc.
 
 ---

@@ -7,7 +7,7 @@ alt: image-alt
 project-date: since November 2016
 client: Constances
 website: http://constances.fr
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Database, Web Development
+description: Database restructuration and variable classification using <a href="http://www.obiba.org/pages/products/opal/" target="_blank">Opal</a>. Data web portal will be based on <a href="http://www.obiba.org/pages/products/mica/" target="_blank">Mica</a>.
 
 ---
