@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2016-08-01
 img: maelstrom.png
-alt: image-alt
+alt: Maelstrom Research
 project-date: since August 2016
 client: Maelstrom Research
 website: https://maelstrom-research.org

@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2017-04-01
 img: iarc.png
-alt: image-alt
+alt: IARC
 project-date: April 2017
 client: International Agency for Research on Cancer (WHO)
 website: http://www.iarc.fr

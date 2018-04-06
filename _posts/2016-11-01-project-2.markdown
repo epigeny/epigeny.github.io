@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2016-11-01
 img: constances.png
-alt: image-alt
+alt: Constances
 project-date: since November 2016
 client: Constances
 website: http://constances.fr
