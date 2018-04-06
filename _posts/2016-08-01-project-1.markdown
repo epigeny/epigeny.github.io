@@ -8,6 +8,6 @@ project-date: since August 2016
 client: Maelstrom Research
 website: https://maelstrom-research.org
 category: Architecture, Database, Web Development, Training, Support
-description: General collaboration for <a href="http://www.obiba.org" target="_blank">OBiBa</a> software development (technical specifications, development and release management). Support to associated studies such as <a href="http://www.clsa-elcv.ca/" target="_blank">CLSA</a>, <a href="http://partnershipfortomorrow.ca/" target="_blank">CPTP</a>, <a href="http://athlosproject.eu/" target="_blank">Athlos</a> etc.
+description: General collaboration for <a href="http://www.obiba.org" target="_blank">OBiBa</a> software development (technical specifications, development and release management). Support to associated studies such as <a href="http://www.clsa-elcv.ca/" target="_blank">CLSA</a>, <a href="http://partnershipfortomorrow.ca/" target="_blank">CPTP</a>, <a href="https://cartagene.qc.ca/" target="_blank">CaG</a>, <a href="http://athlosproject.eu/" target="_blank">Athlos</a> etc.
 
 ---
