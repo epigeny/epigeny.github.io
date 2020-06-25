@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2020-01-01
+img: eucanconnect.png
+alt: EUCAN-Connect
+project-date: since January 2020
+client: EUCAN-Connect
+website: https://www.eucanconnect.eu/
+category: Software engineering
+description: European project partner. Development on <a href="http://www.obiba.org/pages/products/opal/" target="_blank">Opal</a>, <a href="http://datashield.ac.uk" target="_blank">DataSHIELD</a> and <a href="http://www.obiba.org/pages/products/mica/" target="_blank">Mica</a>.
+
+---

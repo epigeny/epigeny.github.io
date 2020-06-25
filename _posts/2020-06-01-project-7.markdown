@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2020-01-01
+img: cartagene.png
+alt: CaG
+project-date: January 2020 - August 2020
+client: CARTaGENE
+website: https://www.cartagene.qc.ca/
+category: Development
+description: Development of the data access request portal, based on <a href="http://www.obiba.org/pages/products/mica/" target="_blank">Mica</a>.
+
+---

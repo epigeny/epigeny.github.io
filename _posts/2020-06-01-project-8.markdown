@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2020-04-01
+img: lumc.svg
+alt: LUMC
+project-date: April 2020 - Decembre 2020
+client: Leiden University Medical Center
+website: https://www.lumc.nl/
+category: Support
+description: Consultancy on <a href="http://www.obiba.org/pages/products/opal/" target="_blank">Opal</a>.
+
+---
